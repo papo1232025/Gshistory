@@ -1,0 +1,14 @@
+name = "gshistory-bot"
+main = "worker.js"
+compatibility_date = "2026-09-01"
+
+# 毎週月曜 9:00（日本時間）に #連絡 へ進み具合をまとめる
+[triggers]
+crons = ["0 0 * * 1"]
+
+# setup.js が表示する値を入れる。BOT_TOKEN だけは `npx wrangler secret put BOT_TOKEN` で入れる
+[vars]
+PUBLIC_KEY = ""
+GUILD_ID = ""
+FORUM_ID = ""
+NOTICE_CHANNEL_ID = ""

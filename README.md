@@ -31,6 +31,7 @@
 | パス | 内容 |
 |---|---|
 | [docs/discord.md](docs/discord.md) | Discord のチャンネル構成・タグ・受け渡しのメッセージ（コピペ用） |
+| [bot/](bot/README.md) | Discord Bot（/次へ でタグ付け替え＋メンション、毎週月曜のまとめ）とつなぎ方 |
 | [docs/workflow.md](docs/workflow.md) | 工程ごとの担当・受け渡し条件・週のリズム・Driveのフォルダ構成 |
 | [docs/format.md](docs/format.md) | 60秒の構成テンプレ・各SNSの書き出し仕様・注意点 |
 | [templates/idea.md](templates/idea.md) | アイデアメモ |
