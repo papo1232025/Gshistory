@@ -1,6 +1,6 @@
 # アイデアメモ
 
-> 1ネタ1行で管理表（[tracker/board.csv](../tracker/board.csv)）に入れればOK。詳しく書きたいときだけこのテンプレを使う。
+> ふだんは Discord の 🎬制作 に投稿すればOK（[discord.md](../docs/discord.md)）。じっくり考えたいときだけこのテンプレを使う。
 
 - **タイトル案**:
 - **提案者**:

@@ -23,18 +23,19 @@
                で決定    (事実確認)
 ```
 
+やりとりは **Discord** で行う。動画1本 = 🎬制作フォーラムの投稿1つで、工程はタグで管理する。詳しくは [docs/discord.md](docs/discord.md)。
 各工程で「何ができたら次に渡すか」は [docs/workflow.md](docs/workflow.md) にまとめてある。
 
 ## ファイル構成
 
 | パス | 内容 |
 |---|---|
+| [docs/discord.md](docs/discord.md) | Discord のチャンネル構成・タグ・受け渡しのメッセージ（コピペ用） |
 | [docs/workflow.md](docs/workflow.md) | 工程ごとの担当・受け渡し条件・週のリズム・Driveのフォルダ構成 |
 | [docs/format.md](docs/format.md) | 60秒の構成テンプレ・各SNSの書き出し仕様・注意点 |
 | [templates/idea.md](templates/idea.md) | アイデアメモ |
 | [templates/script.md](templates/script.md) | 台本＋素材リスト（発起人 → 麻生さんへの受け渡し書も兼ねる） |
 | [templates/post.md](templates/post.md) | 投稿前チェックリストとキャプション |
-| [tracker/board.csv](tracker/board.csv) | 進行管理表（Googleスプレッドシートにインポートして使う） |
 
 ## 決めておきたいこと
 
